@@ -5,6 +5,6 @@
     "lerna": "^5.1.8"
   },
   "scripts": {
-    "version": "lerna version --conventional-commits --conventional-prerelease"
+    "version": "lerna version --conventional-commits --conventional-prerelease --exact"
   }
 }
