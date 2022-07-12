@@ -6,6 +6,7 @@
   },
   "scripts": {
     "version": "lerna version --conventional-commits --conventional-prerelease --exact",
-    "vg": "lerna version --conventional-commits --conventional-graduate --exact"
+    "vg": "lerna version --conventional-commits --conventional-graduate --exact",
+    "publish": "lerna publish from-package --pre-dist-tag dev"
   }
 }
