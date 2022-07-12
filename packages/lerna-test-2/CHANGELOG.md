@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.0.0-alpha.1](https://github.com/k8w/lerna-test/compare/v1.0.0-alpha.0...v1.0.0-alpha.1) (2022-07-12)
+
+
+### Bug Fixes
+
+* asdgasdg ([d1821a5](https://github.com/k8w/lerna-test/commit/d1821a5918d17232947fc7b46c9963f6e15f7cd5))
+
+
+
+
+
 # [1.0.0-alpha.0](https://github.com/k8w/lerna-test/compare/v0.2.0-alpha.0...v1.0.0-alpha.0) (2022-07-12)
 
 
