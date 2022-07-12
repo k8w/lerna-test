@@ -3,7 +3,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "version": "2.0.0-dev.0",
+  "version": "2.0.0",
   "description": "> TODO: description",
   "author": "k8w <me@k8w.cn>",
   "homepage": "",
@@ -21,7 +21,7 @@
   },
   "gitHead": "428144b4c4a8ff1654ca7c2a7255a0bc62f4fd86",
   "dependencies": {
-    "@k8w-test/lerna-test-1": "^1.1.0-dev.0",
-    "@k8w-test/lerna-test-2": "^1.1.0-dev.0"
+    "@k8w-test/lerna-test-1": "^1.1.0",
+    "@k8w-test/lerna-test-2": "^1.1.0"
   }
 }
