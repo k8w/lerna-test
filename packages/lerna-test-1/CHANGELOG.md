@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.0.1](https://github.com/k8w/lerna-test/compare/v2.0.1-dev.2...v2.0.1) (2022-07-12)
+
+**Note:** Version bump only for package @k8w-test/lerna-test-1
+
+
+
+
+
 ## [2.0.1-dev.2](https://github.com/k8w/lerna-test/compare/v2.0.1-dev.1...v2.0.1-dev.2) (2022-07-12)
 
 
