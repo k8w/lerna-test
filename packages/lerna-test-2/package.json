@@ -1,5 +1,8 @@
 {
   "name": "@k8w-test/lerna-test-2",
+  "publishConfig": {
+    "access": "public"
+  },
   "version": "0.1.2-alpha.0",
   "description": "> TODO: description",
   "author": "k8w <me@k8w.cn>",
@@ -16,5 +19,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "d490c6ad6cdf9a353570c0a80a4c7302ee28c567"
+  "gitHead": "428144b4c4a8ff1654ca7c2a7255a0bc62f4fd86"
 }
