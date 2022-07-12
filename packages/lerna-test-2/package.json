@@ -19,5 +19,8 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "428144b4c4a8ff1654ca7c2a7255a0bc62f4fd86"
+  "gitHead": "428144b4c4a8ff1654ca7c2a7255a0bc62f4fd86",
+  "dependencies": {
+    "@k8w-test/lerna-test-1": "1.0.0-alpha.1"
+  }
 }
