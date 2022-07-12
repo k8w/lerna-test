@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.2.0-alpha.0](https://github.com/k8w/lerna-test/compare/v0.1.2-alpha.0...v0.2.0-alpha.0) (2022-07-12)
+
+
+### Features
+
+* new ([ee09a93](https://github.com/k8w/lerna-test/commit/ee09a9347b19cc7efec3c9a67bdd39e040e1c665))
+
+
+
+
+
 # [0.1.0-alpha.0](https://github.com/k8w/lerna-test/compare/v0.0.1-alpha.0...v0.1.0-alpha.0) (2022-07-12)
 
 
