@@ -5,8 +5,8 @@
     "lerna": "^5.1.8"
   },
   "scripts": {
-    "vp": "lerna version --conventional-commits --conventional-prerelease --exact --preid dev",
-    "vg": "lerna version --conventional-commits --conventional-graduate --exact",
+    "version:dev": "lerna version --conventional-commits --conventional-prerelease --preid dev",
+    "vertion:prod": "lerna version --conventional-commits --conventional-graduate",
     "pub": "lerna publish from-package --pre-dist-tag dev"
   }
 }
