@@ -17,7 +17,7 @@
     "lib"
   ],
   "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
+    "test": "echo 766"
   },
   "gitHead": "428144b4c4a8ff1654ca7c2a7255a0bc62f4fd86"
 }
