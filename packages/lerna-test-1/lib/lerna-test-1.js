@@ -3,5 +3,5 @@
 module.exports = lernaTest1;
 
 function lernaTest1() {
-    console.log('1111')
+    console.log('test 1')
 }
