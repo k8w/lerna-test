@@ -1,5 +1,5 @@
 {
-  "name": "lerna-test-2",
+  "name": "@k8w-test/lerna-test-2",
   "version": "0.1.1-alpha.0",
   "description": "> TODO: description",
   "author": "k8w <me@k8w.cn>",
@@ -15,5 +15,6 @@
   ],
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
-  }
+  },
+  "gitHead": "ffa5ba9bdd8b1479048cc20e46e7dd692b5a60f1"
 }
