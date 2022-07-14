@@ -17,16 +17,15 @@
     "dist"
   ],
   "scripts": {
-    "test": "echo asdg"
+    "build": "rm -rf dist && npx rollup -c"
   },
   "devDependencies": {
-    "@microsoft/api-documenter": "^7.17.17",
-    "@microsoft/api-extractor": "^7.25.0",
     "mocha": "^9.2.2",
     "rollup": "^2.75.6",
     "rollup-plugin-typescript2": "^0.32.1",
     "ts-node": "^10.8.1",
-    "typescript": "^4.7.3"
+    "typescript": "^4.7.3",
+    "rollup-plugin-dts": "^4.2.2"
   },
   "gitHead": "428144b4c4a8ff1654ca7c2a7255a0bc62f4fd86"
 }
