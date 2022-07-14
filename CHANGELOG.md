@@ -3,6 +3,29 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.1.0](https://github.com/k8w/lerna-test/compare/v2.0.2...v2.1.0) (2022-07-14)
+
+
+### Bug Fixes
+
+* 2 ([fc6a8ec](https://github.com/k8w/lerna-test/commit/fc6a8ec7e7d8d2096d85035f815d8db602bc8959))
+* private ([a909613](https://github.com/k8w/lerna-test/commit/a9096130d70e3583bd74ef052c6caf8c0873614f))
+
+
+### Features
+
+* AAA, BBB ([6343e45](https://github.com/k8w/lerna-test/commit/6343e45f0db4af1d93d129f551cdf931c1ae2991))
+* asdg ([fc26b69](https://github.com/k8w/lerna-test/commit/fc26b698d315600d647331b510a8ee8383b774fe))
+
+
+### Reverts
+
+* gitignore ([4e4aa66](https://github.com/k8w/lerna-test/commit/4e4aa667c49783450bdc577f3108ef320942ca98))
+
+
+
+
+
 ## [2.0.2](https://github.com/k8w/lerna-test/compare/v2.0.2-dev.0...v2.0.2) (2022-07-12)
 
 **Note:** Version bump only for package root

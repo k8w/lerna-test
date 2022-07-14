@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.1.0](https://github.com/k8w/lerna-test/compare/v2.0.2...v2.1.0) (2022-07-14)
+
+
+### Features
+
+* asdg ([fc26b69](https://github.com/k8w/lerna-test/commit/fc26b698d315600d647331b510a8ee8383b774fe))
+
+
+
+
+
 ## [2.0.2](https://github.com/k8w/lerna-test/compare/v2.0.2-dev.0...v2.0.2) (2022-07-12)
 
 **Note:** Version bump only for package @k8w-test/lerna-test-3
